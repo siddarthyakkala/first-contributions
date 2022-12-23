@@ -49,6 +49,7 @@ Mohammed Yunus
 - [Alon Katz](https://github.com/AlonKz1)
 - Nandita Gupta
 - [Prajwal Dhungana](https://github.com/PrajwalDhungana)
+- [Siddarth Yakkala](https://github.com/siddarthyakkala)
 - [Overlrd](https://github.com/Overlrd)
 - [Prince Dawson](https://github.com/dawssonCodes)
 - [Sachin Joshi](https://github.com/sachudj)
